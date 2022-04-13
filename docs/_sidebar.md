@@ -1,12 +1,13 @@
-- [Home](/)
-- PWA Starter
-  
+<div align=center>
+  <img width="45" src="assets/icons/pwa-builder.png">
+</div>
+<br>
+
+- **PWA Starter** 
   - [Quick Start](starter/README.md)
   
-- PWA Studio
-  
-  - [Quick Start](studio/README.md)
+- **PWA Studio**
+  - [Quick Start](studio/quick-start.md)
 
-- PWA Builder
-  
+- **PWA Builder**
   - [Quick Start](builder/README.md)
