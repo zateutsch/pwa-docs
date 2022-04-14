@@ -3,6 +3,10 @@
     --theme-color: #491576;
     --heading-color: #491576;
 
+    --heading-h2-border-style: none;
+    --heading-h2-font-size: 25px;
+    --heading-h2-margin: 1.5em 0 -.5em 0;
+
     /* Sidebar */
     --sidebar-name-color: #491576;
     --sidebar-background: linear-gradient(to right, #F2F0F4, #F2FBFD);
@@ -17,4 +21,8 @@
     --search-input-border-radius: 15px;
     --search-input-border-radius--focus: 15px;
     --search-margin: 1.5rem .75rem 0 .75rem;
+
+    /* Notices */
+    --notice-tip-background: #F2F0F4;
+    --notice-tip-border-color: #491576; ;
 }   
