@@ -19,7 +19,7 @@ To start a new PWA using the PWA Studio interface:
 5. Your PWA repository will open in Visual Studio Code, with all the dependencies installed and ready to start coding.
 
 <div class="docs-image">
-    <img src="/assets/studio/quick-start/command-bar-startnew.png" width=800/>
+    <img src="/assets/studio/create-new/command-bar-startnew.png" width=800/>
 </div>
 
 
@@ -39,7 +39,7 @@ You can also start a new PWA with a command. To do this:
 6. Your PWA repository will open in Visual Studio Code, with all the dependencies installed and ready to start coding.
 
 <div class="docs-image">
-    <img src="/assets/studio/quick-start/new-pwa-cmd.png" width=600/>
+    <img src="/assets/studio/create-new/new-pwa-cmd.png" width=600/>
 </div>
 
 ## Next Steps

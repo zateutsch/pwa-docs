@@ -21,7 +21,7 @@ To add a manifest using the interface:
 4. Fill out the Web Manifest form and click `Submit Manifest Options`. You can learn more about the Manifest fields [here.](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
 <div class="docs-image">
-    <img src="/assets/studio/quick-start/web-manifest-form.png" width=800>
+    <img src="/assets/studio/existing-app/web-manifest-form.png" width=650>
 </div>
 
 
@@ -75,5 +75,5 @@ To generate icons:
 6. Your icons will be automatically added to your web manifest.
 
 <div class="docs-image">
-    <img src="/assets/studio/quick-start/generate-icons.png" width=500>
+    <img src="/assets/studio/existing-app/generate-icons.png" width=500>
 </div>

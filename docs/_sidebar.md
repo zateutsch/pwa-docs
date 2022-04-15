@@ -10,6 +10,8 @@
   - [Quick Start](studio/quick-start.md)
   - [Create a New PWA](studio/create-new.md)
   - [Converting Existing Apps](studio/existing-app.md)
+  - [Package Your PWA](studio/package.md)
+  - [Code Snippets](studio/snippets.md)
 
 - **PWA Builder**
   - [Quick Start](builder/README.md)
