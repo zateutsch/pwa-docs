@@ -19,4 +19,4 @@ Just like the rest of PWA Builder, the documentation will also be open-source an
 Take a look at the [How To Contribute](https://github.com/pwa-builder/pwa-docs/wiki/How-To-Contribute) article in the wiki.
 
 ### Notice Something Wrong?
-Open an issue [here.](https://github.com/pwa-builder/PWABuilder/issues) You can find more info about working with Docsify in their [documentation.](https://docsify.js.org/#/?id=docsify)
+Open an issue [here.](https://github.com/pwa-builder/PWABuilder/issues)
