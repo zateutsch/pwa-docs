@@ -24,5 +24,11 @@
 
     /* Notices */
     --notice-tip-background: #F2F0F4;
-    --notice-tip-border-color: #491576; ;
-}   
+    --notice-tip-border-color: #491576;
+
+    /* Cover Page */
+    --cover-background-color: #9C8DAB;
+    --cover-button-border-radius: 20px;
+    --cover-button-background: #491576;
+    --cover-button-color: #fff;
+}
