@@ -13,5 +13,5 @@
   - [Package Your PWA](studio/package.md)
   - [Code Snippets](studio/snippets.md)
 
-- **PWA Builder**
+- **PWABuilder**
   - [Quick Start](builder/README.md)

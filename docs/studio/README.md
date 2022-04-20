@@ -13,7 +13,7 @@ This documentation contains all the info you need for working with the extension
 ---
 
 ## Getting the Extension <!-- {docsify-ignore} -->
-The PWA Builder Code extension is available on the VSCode Extension Marketplace and can be downloaded [here.](https://marketplace.visualstudio.com/items?itemName=PWABuilder.pwa-studio)
+The PWABuilder Code extension is available on the VSCode Extension Marketplace and can be downloaded [here.](https://marketplace.visualstudio.com/items?itemName=PWABuilder.pwa-studio)
 
 If you already have VS Code installed, clicking install will prompt you to open VS Code and take you right to the extension. If you don't have VS Code but want to try developing PWAs with the extension, you can download Code [here.](https://code.visualstudio.com/)
 
@@ -42,9 +42,9 @@ Learn how to [validate your PWA](https://github.com/pwa-builder/pwabuilder-vscod
 ---
 
 ## Resources and Links <!-- {docsify-ignore} -->
-Check out some of these sites to learn more about PWAs and PWA Builder!
+Check out some of these sites to learn more about PWAs and PWABuilder!
 
-[***PWA Builder***](https://www.pwabuilder.com/)
+[***PWABuilder***](https://www.pwabuilder.com/)
 
 [***PWA Starter application***](https://github.com/pwa-builder/pwa-starter)
 

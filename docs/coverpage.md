@@ -7,5 +7,5 @@
 > All-in-one toolchain for building progressive web apps.
 
 [PWA Starter](/starter/README.md)
-[PWA Builder](/builder/README.md)
+[PWABuilder](/builder/README.md)
 [PWA Studio](/studio/quick-start.md)

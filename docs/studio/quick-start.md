@@ -14,7 +14,7 @@ You can use PWA Studio to:
 If you're new to developing PWAs and aren't sure where to start, check out this [blog series.]()
 
 ## Getting the Extension
-The PWA Builder Code extension is available within Visual Studio Code in the extensions tab. If you search for `PWA Studio` or `PWABuilder`, it should be the first result. 
+The PWABuilder Code extension is available within Visual Studio Code in the extensions tab. If you search for `PWA Studio` or `PWABuilder`, it should be the first result. 
 Click the `Install` button to add the extension to Visual Studio Code.
 
 <div class="docs-image">
