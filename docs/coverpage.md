@@ -4,7 +4,7 @@
 
 # Otter Docs
 
-> All-in-one toolchain for building progressive web apps
+> All-in-one toolchain for building progressive web apps.
 
 [PWA Starter](/starter/README.md)
 [PWA Builder](/builder/README.md)

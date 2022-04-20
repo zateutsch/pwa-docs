@@ -29,6 +29,11 @@
     /* Cover Page */
     --cover-background-color: #9C8DAB;
     --cover-button-border-radius: 20px;
-    --cover-button-background: #491576;
+    --cover-button-background: #7A688D;
     --cover-button-color: #fff;
+    --cover-button-border: 1px solid #fff;
+
+    --cover-button-primary-background: #7A688D;
+    --cover-button-primary-color: #fff;
+    --cover-button-primary-border: 1px solid #fff;
 }
