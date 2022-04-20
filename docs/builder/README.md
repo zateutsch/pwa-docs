@@ -1,7 +1,8 @@
 # Builder Quickstart
 
-```javascript
-def copyCodeExample(codeToCopy){
+
+```typescript
+def copyCodeExample(codeToCopy: string): string {
     return codeToCopy;
 }
 ```
