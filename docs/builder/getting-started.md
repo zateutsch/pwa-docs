@@ -21,7 +21,6 @@ Once you reach these benchmarks, you unlock the key to generate app bundles to s
 
 Anything else you need will be more fine grain details like coming up with a description for your app, making sure you have the proper sized icons and screenshots for your desired platform and if you collect or use any personal data, you will need to write up a privacy policy. This will be discussed further when it comes time to package (link to packaging docs).
 
-<br />
 ## Additional Info
 
 If you are interested in using PWABuilder or seeing how it works before getting started, there is a button on the [home page of PWABuilder](https://pwabuilder.com) that allows you to test a demo site. This allows you to see what the process is like from start to finish. 
