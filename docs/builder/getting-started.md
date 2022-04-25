@@ -1,7 +1,7 @@
 # Getting Started/Prerequistes
 ## What is PWABuilder?
     
-PWABuilder is an open source project, sponsored by Microsoft, that enables developers to build better PWAs and ship them everywhere, including Windows!
+PWABuilder is an open source tool that allows developers to package their PWAs for publishing to various stores, including Microsoft, Google Play, and the iOS App Store. If you're just interested in quickly packaging your app, this article will take you through easily generating packages. There's also more in-depth sections for each of PWABuilder's supported platforms.```
 
 ## What does it do?
 
