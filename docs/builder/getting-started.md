@@ -10,7 +10,7 @@ If your web app meets a few baseline PWA requirements, you can use PWABuilder to
 
 ## Steps to take before you can use PWABuilder
 
-### Preflight Checklist
+#### Requirements for Packaging
 * URL to your website
 * Web Manifest
 * Secure HTTPS connection
