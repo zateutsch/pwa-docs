@@ -44,8 +44,9 @@
 
 .docs-image {
     border-color:#7A688D;
-    border-width: 1px;
+    border-width: 2px;
     border-style: solid;
     padding: 5px;
     display: inline-block;
+    border-radius: 3px;
 }
