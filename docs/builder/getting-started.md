@@ -14,7 +14,6 @@ If your web app meets a few baseline PWA requirements, you can use PWABuilder to
 * Web Manifest
 * Secure HTTPS connection
 
-Anything else you need will be more fine grain details like coming up with a description for your app, making sure you have the proper sized icons and screenshots for your desired platform and if you collect or use any personal data, you will need to write up a privacy policy. This will be discussed further when it comes time to package (link to packaging docs).
 
 ## Additional Info
 
