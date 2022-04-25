@@ -14,5 +14,5 @@
   - [Code Snippets](studio/snippets.md)
 
 - **PWABuilder**
-  - [Quick Start](builder/README.md)
+  - [Quick Start](builder/quick-start.md)
   - [iOS App Store](builder/iOS.md)

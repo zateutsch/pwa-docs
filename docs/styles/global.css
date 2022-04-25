@@ -4,8 +4,8 @@
     --heading-color: #491576;
 
     --heading-h2-border-style: none;
-    --heading-h2-font-size: 25px;
-    --heading-h2-margin: 1.5em 0 -.5em 0;
+    --heading-h2-font-size: 30px;
+    --heading-h2-margin: .75em 0 -.75em 0;
 
     /* Sidebar */
     --sidebar-name-color: #491576;
@@ -39,4 +39,13 @@
     --cover-button-primary-background: #7A688D;
     --cover-button-primary-color: #fff;
     --cover-button-primary-border: 1px solid #fff;
+
+}
+
+.docs-image {
+    border-color:#7A688D;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    display: inline-block;
 }
