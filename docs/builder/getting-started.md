@@ -13,7 +13,6 @@ If your web app meets a few baseline PWA requirements, you can use PWABuilder to
 * URL to your website
 * Web Manifest
 * Secure HTTPS connection
-* For each store you decide to package for you are going to want a developer account with their store. For the Microsoft Store that will be the Partner Center ($20), for the Google Play Store the Google Play Console ($25) and for the iOS App Store that will be an Apple Developer account ($99).
 
 Anything else you need will be more fine grain details like coming up with a description for your app, making sure you have the proper sized icons and screenshots for your desired platform and if you collect or use any personal data, you will need to write up a privacy policy. This will be discussed further when it comes time to package (link to packaging docs).
 
