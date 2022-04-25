@@ -268,7 +268,7 @@ Lastly, you just need to **create an archive and upload it:**
 
 #### 8. Submit for Review 
 
-The last thing you need to do is submut your app for review:
+The last thing you need to do is submit your app for review:
 
 1. Go to your apps list at the [App Store Connect.](https://appstoreconnect.apple.com/apps)
 
