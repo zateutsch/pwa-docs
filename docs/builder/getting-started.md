@@ -2,7 +2,7 @@
     
 PWABuilder is an open source tool that allows developers to package their PWAs for publishing to various stores, including Microsoft, Google Play, and the iOS App Store. If you're just interested in quickly packaging your app, this article will take you through easily generating packages. There's also more in-depth sections for each of PWABuilder's supported platforms.```
 
-## What does it do?
+## Prerequisites
 
 PWABuilder takes your websites URL and runs a series of tests to ensure that you have a _store ready_ PWA. That means that you have a web manifest (link to what a web manifest is) and is served over HTTPS (link to what in means to have a secure PWA) and an extra bonus if you take advantage of Service Workers (link explaining service workers, probs 30 days articles for all 3 links here). 
     
