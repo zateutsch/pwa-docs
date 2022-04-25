@@ -4,7 +4,7 @@ PWABuilder is an open source tool that allows developers to package their PWAs f
 
 ## Prerequisites
 
-PWABuilder takes your websites URL and runs a series of tests to ensure that you have a _store ready_ PWA. That means that you have a web manifest (link to what a web manifest is) and is served over HTTPS (link to what in means to have a secure PWA) and an extra bonus if you take advantage of Service Workers (link explaining service workers, probs 30 days articles for all 3 links here). 
+If your web app meets a few baseline PWA requirements, you can use PWABuilder to validate, score, and package your application for stores.
     
 If you're developing with PWA in mind you'll most likely be directed straight to packaging (because you'll have a manifest and a secure connection already). However, if you need to convert your site into a PWA or edit your current manifest, PWABuilder will guide you through this process. 
     
