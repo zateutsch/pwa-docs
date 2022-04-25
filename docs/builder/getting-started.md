@@ -10,7 +10,7 @@ If your web app meets a few baseline PWA requirements, you can use PWABuilder to
 
 
 #### Requirements for Packaging
-* URL to your website
+* URL to your PWA
 * Web Manifest
 * Secure HTTPS connection
 
