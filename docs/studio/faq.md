@@ -19,6 +19,3 @@ You most likely have not saved your `index.html` file. The extension will insert
 2. Choose your workflow run. Normally the first one is the latest one.
 3. Click on the workflow run, scroll to the bottom, and download the vsix file in the `Artifacts` section.
 4. Install [this extension](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-install-vsix&msclkid=d9be3152b46711ecb569dbe40d0a72c0) to install that VSIX file we downloaded in step 3
-
-
-
