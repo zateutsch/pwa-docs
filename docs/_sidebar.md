@@ -12,6 +12,7 @@
   - [Converting Existing Apps](studio/existing-app.md)
   - [Package Your PWA](studio/package.md)
   - [Code Snippets](studio/snippets.md)
+  - [FAQ](studio/faq.md)
 
 - **PWABuilder**
   - [Quick Start](builder/quick-start.md)
