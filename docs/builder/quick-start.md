@@ -14,6 +14,10 @@ Your PWA needs to:
 
 If your app meets these requirements, you can package with PWABuilder.
 
+?> **Note** To publish your package, you will need a Developer Account with each platform you want to publish with. 
+For the Microsoft and Google Play stores, these cost a one time fee of $19 and $25, respectively. For the Apple App Store, 
+an account costs a recurring $99 per year.
+
 ## Packaging
 You can have an application package for your PWA in just a few steps:
 
