@@ -90,7 +90,7 @@ If you don’t have an Apple Developer account, enroll [here.](https://developer
 
 #### 2. Create a Bundle ID
 
-Next, you will need to create a Bundle ID on your Apple Developer Account that matches the Bundle ID associated with your package from PWA Builder.
+Next, you will need to create a Bundle ID on your Apple Developer Account that matches the Bundle ID associated with your package from PWABuilder.
 
 1. Navigate to your [Apple Developer account page](https://developer.apple.com/account/) and select `Certificates, Identifiers & Profiles`
    
