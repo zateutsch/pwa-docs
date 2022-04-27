@@ -4,16 +4,15 @@
 <br>
 
 - **PWA Starter** 
-  - [Quick Start](starter/README.md)
   
 - **PWA Studio**
-  - [Quick Start](studio/quick-start.md)
-  - [Create a New PWA](studio/create-new.md)
-  - [Converting Existing Apps](studio/existing-app.md)
-  - [Package Your PWA](studio/package.md)
-  - [Code Snippets](studio/snippets.md)
-  - [FAQ](studio/faq.md)
+  - <a href="#/studio/quick-start">Quick Start</a>
+  - <a href="#/studio/create-new"> Create a New PWA </a>
+  - <a href="#/studio/existing-app"> Converting Existing Apps </a>
+  - <a href="#/studio/package"> Package Your PWA </a>
+  - <a href="#/studio/snippets"> Code Snippets </a>
+  - <a href="#/studio/faq"> FAQ </a>
 
 - **PWABuilder**
-  - [Quick Start](builder/quick-start.md)
-  - [iOS App Store](builder/iOS.md)
+  - <a href="#/builder/quick-start"> Quick Start </a>
+  - <a href="#/builder/iOS"> iOS App Store </a>
