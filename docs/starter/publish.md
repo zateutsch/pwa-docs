@@ -1,6 +1,6 @@
 # Publishing Your PWA
 
-Once you've develope your PWA using the starter, it's time to publish your application to the web. 
+Once you've develop your PWA using the starter, it's time to publish your application to the web. 
 This not only makes your PWA available through the browser, but also allows you to package your application for different app stores with <a href=#/builder/quick-start>PWABuilder.</a>
 
 Here are some select ways to publish your PWA quickly and easily, but there are plenty of other options available.
