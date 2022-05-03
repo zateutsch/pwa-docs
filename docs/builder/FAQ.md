@@ -1,7 +1,7 @@
 # PWABuilder Frequently Asked Questions
 
 
-## **Windows Platform** 
+## **Windows** 
 ### Where do I find my publisher information?
 In order to publish your PWA in the Microsoft Store, you'll need 3 things:
 
