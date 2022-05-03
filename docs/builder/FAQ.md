@@ -1,4 +1,4 @@
-# PWABuilder Frequently Asked Questions
+# Frequently Asked Questions
 
 
 ## **Windows** 
