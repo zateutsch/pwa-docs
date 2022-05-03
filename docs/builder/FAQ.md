@@ -51,7 +51,7 @@ Has to match the app name you used on PWABuilder:
 
 If your address bar is still showing, it probably means there's a problem with your `assetlinks.json` file.
 
-Check out <a href="">this article </a> for info on debugging `assetlinks.json` issues.
+Check out <a href="#/hidden/asset-links-faq">this article </a> for info on debugging `assetlinks.json` issues.
 
 ## iOS
 
