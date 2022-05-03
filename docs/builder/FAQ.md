@@ -36,7 +36,7 @@ These two combined errors, `Invalid package identity name` and `Invalid package 
 
  In the above error message, the expected package ID is `42541MyCompany.MyAwesomePwa` - go to PWABuilder and rebuild your package with the correct package ID: <br> !["Updated Packge ID"](../assets/builder/faq/updated-package-id.png)
 
-### "This package's manifest uses a display name that you have not reserved"
+### Common error: "This package's manifest uses a display name that you have not reserved"
 
 !["The display name not reserved warning"](../assets/builder/faq/not-reserved.png)
 
