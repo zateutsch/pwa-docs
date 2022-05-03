@@ -1,7 +1,5 @@
 # PWABuilder Frequently Asked Questions
 
-## **General**
-### Not sure what would fall into general?
 
 ## **Windows Platform** 
 ### Where do I find my publisher information?
