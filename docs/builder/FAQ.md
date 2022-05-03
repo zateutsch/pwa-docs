@@ -28,7 +28,7 @@ On PWABuilder when generating your Windows app, add these values to the Windows 
 
 This error indicates that you need to rebuild your PWA app package with the correct `publisher`. [How can I find my publisher ID?](**link to above**)
 
-### "Invalid package identity name" / "Invalid package family name"
+### Common error: "Invalid package identity name" / "Invalid package family name"
 
 !["The invalid package ID warning"](../assets/builder/faq/invalid-package-id.png)
 
