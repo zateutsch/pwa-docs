@@ -54,7 +54,7 @@ The app name in Partner Center...
 ### Address Bar still shows
 Here you can find up to date [instructions on adding your assetlinks.json to your repo](https://github.com/pwa-builder/CloudAPK/blob/master/Asset-links.md).
 
-## **iOS Platform**
+## **iOS**
 ### How can I tell if my PWA was launched from the iOS app?
 At runtime, your PWA will have a `app-platform` cookie. This cookie's value will be set to `iOS App Store`.
 
