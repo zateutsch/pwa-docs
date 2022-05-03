@@ -50,7 +50,7 @@ The app name in Partner Center...
 
 !["The app name on PWABuilder"](../assets/builder/faq/app-name-pwabuilder.png)
 
-## **Android Platform**
+## **Android**
 ### Address Bar still shows
 Here you can find up to date [instructions on adding your assetlinks.json to your repo](https://github.com/pwa-builder/CloudAPK/blob/master/Asset-links.md).
 
