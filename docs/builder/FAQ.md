@@ -3,7 +3,7 @@
 
 ## **Windows** 
 ### Where do I find my publisher information?
-In order to publish your PWA in the Microsoft Store, you'll need 3 things:
+In order to publish your PWA in the Microsoft Store, you'll need three things:
 
 1. `Package ID`
 2. `Publisher ID`
