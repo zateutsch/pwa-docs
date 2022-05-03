@@ -9,7 +9,7 @@ In order to publish your PWA in the Microsoft Store, you'll need 3 things:
 2. `Publisher ID`
 3. `Publisher display name`
 
-To get this information, go to [Windows Partner Center](https://partner.microsoft.com/dashboard) and click on your app. (Don't have an app yet? **[LINK TO CREATING A NEW PWA]**.)
+To get this information, go to [Windows Partner Center](https://partner.microsoft.com/dashboard) and click on your app.
 
 Choose `Product Management` -> `Product Identity`:
 
