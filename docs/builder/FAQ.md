@@ -22,7 +22,7 @@ On PWABuilder when generating your Windows app, add these values to the Windows 
 
 !["Publisher and package info in PWABuilder"](../assets/builder/faq/required-data-in-pwabuilder.png)
 
-### "Invalid package publisher name"
+### Common error: "Invalid package publisher name"
 
 !["The invalid publisher ID warning"](../assets/builder/faq/invalid-package-id.png)
 
