@@ -18,14 +18,14 @@ The first step is to generate your Android package with PWABuilder.
 2. Enter the URL of your PWA on the homepage.
 
 <div class="docs-image">
-    <img src="/assets/builder/ios/enter-url.png" width=450>
+    <img src="../assets/builder/android/url.jpg" width=450>
 </div>
 
 3. Click `Next` to navigate to the package selection page.
 4. Click on `Store Package` in the Android section.
    
 <div class="docs-image">
-    <img src="/assets/builder/ios/ios-publish-section.png" width=550>
+    <img src="../assets/builder/android/store_package.jpg" width=550>
 </div>
 
 5. Next you will see a list of the different options for the Android platform that are covered in more detail below.
@@ -81,7 +81,7 @@ The first step is to generate your Android package with PWABuilder.
     - Go to Google Play Console, select your app release then choose Setup -> App integrity, then copy your SHA-256 fingerprint.
     - Then, paste the fingerprint into your assetlinks.json file:
 <div class="docs-image">
-    <img src="/assets/builder/ios/ios-publish-section.png" width=550>
+    <img src="../assets/builder/android/assetlinks.jpg" width=550>
 </div>
     - Once your updated assetlinks.json file is deployed to your server, the address bar will disappear from your app.
     
