@@ -76,13 +76,13 @@ The first step is to generate your Android package with PWABuilder.
     - You can follow the guidelines on the Google play console to create your app. Don’t forget to choose the age range from 13+ or your app publishing request won’t be accepted.
     - Your zip file contains an .aab (Android App Bundle) file which can be submitted directly to the Play Store through the Google Play Console.
 * ### Update your [asset links file](https://blog.pwabuilder.com/Asset-links.md#validate-your-assetlinksjson-file) for production
-    - This step is required for running the production version of your app. If you skip this step, your app will crash or will a browser address bar will appear inside your app. See our asset links helper for more info.
+    - This step is required for running the production version of your app. If you skip this step, your app will crash or a browser address bar will appear inside your app. 
     - Once you’ve uploaded your .aab file, Google Play re-signs your app. Because of this, you’ll need to update your asset links file.
     - Go to Google Play Console, select your app release then choose Setup -> App integrity, then copy your SHA-256 fingerprint.
     - Then, paste the fingerprint into your assetlinks.json file:
-<div class="docs-image">
-    <img src="../assets/builder/android/assetlinks.jpg" width=550>
-</div>
+        <div class="docs-image">
+            <img src="../assets/builder/android/assetlinks.jpg" width=550>
+        </div>
     - Once your updated assetlinks.json file is deployed to your server, the address bar will disappear from your app.
     
 ## Save your signing key
