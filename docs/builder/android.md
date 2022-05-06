@@ -50,7 +50,7 @@ The first step is to generate your Android package with PWABuilder.
 * Manifest URL: The absolute URL of your web manifest.
 * Splash fade out duration (ms): How long the splash screen fade out animation should last in milliseconds.
 * Fallback behavior:  When the full TWA experience isn’t available, how should your app proceed, whether with a web view or [Chrome’s Custom Tabs](https://developer.chrome.com/docs/android/custom-tabs/) feature. We default to the latter.
-* Display mode: \
+* Display mode: 
   - Standalone means your PWA takes up all the area except Android status bar and Navigation bar.
   - Fullscreen hide both bars. This is intended for immersive experiences likes games and media playback.
 * Notifications: If enabled, your PWA will use Android Notification Delegation for push notifications, meaning your installed PWA can send push notifications without browser permission prompts. You should enable this if your PWA sends push notifications.
