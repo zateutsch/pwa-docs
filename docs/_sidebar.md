@@ -26,4 +26,5 @@
   - <a href="#/builder/quick-start"> Quick Start </a>
   - <a href="#/builder/android"> Google Play Store </a>
   - <a href="#/builder/iOS"> iOS App Store </a>
+  - <a href="#/builder/meta"> Meta Quest </a>
   - <a href="#/builder/FAQ"> FAQ </a>
