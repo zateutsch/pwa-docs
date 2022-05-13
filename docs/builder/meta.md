@@ -1,15 +1,15 @@
 # Creating Packages for 
 
-PWABuilder’s Android platform utilizes the [Bubblewrap tool](https://github.com/GoogleChromeLabs/bubblewrap) to generate a [Trusted Web Activity (TWA)](https://developer.chrome.com/docs/android/trusted-web-activity/) that can be installed on the Google Play Store. This TWA behaves like any other Android application and is a great way to ship your PWA to the Google Play Store.
+PWABuilder’s Meta Quest platform utilizes the [CLI tool published by Meta](https://developer.oculus.com/documentation/web/pwa-packaging/) to generate an apk package that can be installed on a Meta Quest.
 
 ## Prerequisites
 
 We strongly recommend reading Meta's documentation on PWAs:
-- [Overview of PWA support on Meta Quest 2](https://developer.oculus.com/pwa/)
+- [Overview of PWA support on Meta Quest](https://developer.oculus.com/pwa/)
 
 You will need: 
 * A valid PWA with a web manifest, published to the web and secured through HTTPS
-* An Oculus Quest 2 for sideloading and testing
+* An Oculus Quest for sideloading and testing
 * An Oculus Developer Account and Device Setup (follow instructions [here](https://developer.oculus.com/documentation/native/android/mobile-device-setup/))
 
 ## Packaging your PWA with PWABuilder
@@ -24,7 +24,7 @@ The first step is to generate your .apk package with PWABuilder.
 </div>
 
 3. Click `Next` to navigate to the package selection page.
-4. Click on `Store Package` in the Meta Quest 2 section.
+4. Click on `Store Package` in the Meta Quest section.
    
 <div class="docs-image">
     <img src="../assets/builder/meta/store_package.jpg" width=550>
@@ -51,12 +51,12 @@ Your zip file contains ```signing.keystore``` and ```signing-key-info.txt```. ``
 ```signing-key-info.txt``` is a text file containing your signing key information, such as the key password, store password, and key alias.
 Keep both of these files in a safe place. You’ll need them to deploy future versions of your app. 
 
-## Sideloading and Testing your app on your Meta Quest 2 device
+## Sideloading and Testing your app on your Meta Quest device
 
 For this step, you'll need:
 
-- A Meta Quest 2 device
-- A USB-C cable to connect your Meta Quest 2 device to your PC or Mac
+- A Meta Quest device
+- A USB-C cable to connect your Meta Quest device to your PC or Mac
 - Verify your Quest software is up-to-date. Turn on your Quest device and open `Settings` -> `System` -> `Software Update`.  Your software version should be 31 or greater.
 - Make sure your device is setup and your developer account is enabled according to the documentation [here](https://developer.oculus.com/documentation/native/android/mobile-device-setup/). 
-- Follow the instructions [here](https://developer.oculus.com/documentation/web/pwa-packaging/#sideload-your-pwa-to-test) to sideload and test your app on your Meta Quest 2!
+- Follow the instructions [here](https://developer.oculus.com/documentation/web/pwa-packaging/#sideload-your-pwa-to-test) to sideload and test your app on your Meta Quest!
