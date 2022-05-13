@@ -9,14 +9,14 @@ We strongly recommend reading Meta's documentation on PWAs:
 
 You will need: 
 * A valid PWA with a web manifest, published to the web and secured through HTTPS
-* An Oculus Quest for sideloading and testing
+* An Meta Quest for sideloading and testing
 * An Oculus Developer Account and Device Setup (follow instructions [here](https://developer.oculus.com/documentation/native/android/mobile-device-setup/))
 
 ## Packaging your PWA with PWABuilder
 
 The first step is to generate your .apk package with PWABuilder.
 
-1. Navigate to preview.PWABuilder.com.
+1. Navigate to preview.pwabuilder.com.
 2. Enter the URL of your PWA on the homepage.
 
 <div class="docs-image">
