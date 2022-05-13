@@ -9,7 +9,6 @@ You will need:
 * A Google developer account ($25)
 * An android device or Android emulator for testing
 
-An Apple Developer account (which are available for a yearly subscription of $99)
 ## Packaging
 
 The first step is to generate your Android package with PWABuilder.
