@@ -20,18 +20,18 @@ The first step is to generate your .apk package with PWABuilder.
 2. Enter the URL of your PWA on the homepage.
 
 <div class="docs-image">
-    <img src="../assets/builder/oculus/url.jpg" width=450>
+    <img src="../assets/builder/meta/url.jpg" width=450>
 </div>
 
 3. Click `Next` to navigate to the package selection page.
-4. Click on `Store Package` in the Oculus section.
+4. Click on `Store Package` in the Meta Quest 2 section.
    
 <div class="docs-image">
-    <img src="../assets/builder/oculus/store_package.jpg" width=550>
+    <img src="../assets/builder/meta/store_package.jpg" width=550>
 </div>
 
 5. Next you will see a list of the different options for the Meta Quest platform that are covered in more detail below.
-6. When you are ready, tap the Generate button to generate your Oculus app package, and then the Download button when it pops up to download the generated App and associated files.
+6. When you are ready, tap the Generate button to generate your app package, and then the Download button when it pops up to download the generated App and associated files.
 
 ## Customize your .apk package
 * Package ID: The ID of your Meta Quest app. We recommend a reverse-domain style string: com.domainname.appname. Letters, numbers, periods, hyphens, and underscores are allowed.
@@ -57,6 +57,6 @@ For this step, you'll need:
 
 - A Meta Quest 2 device
 - A USB-C cable to connect your Meta Quest 2 device to your PC or Mac
-- Verify your Quest software is up-to-date. Turn on your Oculus device and open `Settings` -> `System` -> `Software Update`.  Your software version should be 31 or greater.
+- Verify your Quest software is up-to-date. Turn on your Quest device and open `Settings` -> `System` -> `Software Update`.  Your software version should be 31 or greater.
 - Make sure your device is setup and your developer account is enabled according to the documentation [here](https://developer.oculus.com/documentation/native/android/mobile-device-setup/). 
 - Follow the instructions [here](https://developer.oculus.com/documentation/web/pwa-packaging/#sideload-your-pwa-to-test) to sideload and test your app on your Meta Quest 2!
